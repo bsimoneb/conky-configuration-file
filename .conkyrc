@@ -20,7 +20,7 @@ conky.config = {
 	xinerama_head = 1,
 	alignment = 'top_left',
 	gap_x = 11,
-	gap_y =	11,
+	gap_y =	67,
 	draw_shades = false,
 	draw_outline = false,
 	draw_borders = false,
@@ -30,7 +30,7 @@ conky.config = {
 	xftalpha = 0.8,
 	uppercase = false,
 	default_color = '#000000',
-	own_window_colour = '#F5F5F5',
+	own_window_colour = '#F4F5F5',
 	minimum_width = 0, minimum_height = 0,
 	alignment = 'bottom_left',
 
